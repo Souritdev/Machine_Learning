@@ -1,0 +1,7 @@
+We Trained different models and in result we get the following regression score
+
+
+1) Multiple Linear Regression -----> 0.9275484963869204
+2) Decision Tree Regression  ------> 0.9312721617597963
+3) Random Forest Regression  ------> 0.957759232178241
+4) Polynomial Regression  ---------> 0.9385387918802738
